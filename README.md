@@ -4,25 +4,25 @@ This is a custom program written in Matlab 2019, using Appdesigner.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 With this program it will be possible to create stimuli with different numerosity and balanced characteristics, in particular it is possible to control:
-•	TA = total area, overall elements area
-•	TP = total perimeter, overall elements contour length
-•	ID = mean distance between all elements centers (not defined for <2 element)
-•	CH = convex hull defined by the elements centers disposition (not defined for <3 elements)
-•	D = density defined as number of elements divided by the occupied area (CH)
+-	TA = total area, overall elements area
+-	TP = total perimeter, overall elements contour length
+-	ID = mean distance between all elements centers (not defined for <2 element)
+-	CH = convex hull defined by the elements centers disposition (not defined for <3 elements)
+-	D = density defined as number of elements divided by the occupied area (CH)
 
 The whole program is structured in three different steps:
 
 1.	a. GeNEsIS_create.mlapp
-Create balanced positions for your stimuli (CH, ID)
+    Create balanced positions for your stimuli (CH, ID)
 
-b. shapesGenesis.mlapp
-Create balanced shapes for your stimuli (TA, TP)
+    b. shapesGenesis.mlapp
+    Create balanced shapes for your stimuli (TA, TP)
 
 2.	GeNEsIS_save.mlapp
-Visualize your stimuli and set graphical properties (colors, effective dimension)
+    Visualize your stimuli and set graphical properties (colors, effective dimension)
 
 3.	GeNEsIS_display.mlapp
-Perform classical experiments of habituation or discrimination presenting your images on screen in an automatized way
+    Perform classical experiments of habituation or discrimination presenting your images on screen in an automatized way
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RUN THE PROGRAM
