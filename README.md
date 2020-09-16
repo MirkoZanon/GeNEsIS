@@ -3,7 +3,7 @@ This is a custom program written in Matlab 2019, using Appdesigner.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-With this program it will be possible to create stimuli with different numerosity and balanced characteristics, in particular it is possible to control:
+With this program it is possible to create stimuli with different numerosity and balanced characteristics, in particular it is possible to control:
 -	TA = total area, overall elements area
 -	TP = total perimeter, overall elements contour length
 -	ID = mean distance between all elements centers (not defined for <2 element)
