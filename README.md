@@ -1,5 +1,6 @@
 # GeNEsIS - Generator of numerical elements images software
 This is a custom program written in Matlab (Matlab R2019a, The MathWorks Inc., Natick, Massachusetts, USA), using Appdesigner. 
+A supplemtary tool of this program uses also Psychtoolbox-3 (the Psychophysics Toolbox extensions - Brainard, 1997; Pelli, 1997; Kleiner et al, 2007).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,7 +33,7 @@ Requisites:
 - (Psychtoolboox-3)
 
 Make sure to have a recent version of Matlab; open it and set the proper working folder containing all the files of this program (GeNEsIs.mlapp, GeNEsIS_create.mlapp, shapesGenesis.mlapp, GeNEsIS_save.mlapp, GeNEsIS_display.mlapp and eventual Matlab files you will save during your work). 
-Moreover, if you want to perform the final experiment (present the stimuli on screen with GeNEsIS_display), you need to install Psychtoolbox-3 (the Psychophysics Toolbox extensions - Brainard, 1997; Pelli, 1997; Kleiner et al, 2007 - http://psychtoolbox.org/).
+Moreover, if you want to perform the final experiment (present the stimuli on screen with GeNEsIS_display), you need to install Psychtoolbox-3 (http://psychtoolbox.org/).
 
 In order to open the programs just drag and drop the file of interest in the Matlab terminal.
 You can use simply the main menu GeNEsIS.mlapp to access all the tools in a simple way.
