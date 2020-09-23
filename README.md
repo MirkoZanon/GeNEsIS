@@ -38,8 +38,8 @@ Make sure to have a recent version of Matlab; open it and set the proper working
 Moreover, if you want to perform the final experiment (present the stimuli on screen with GeNEsIS_display), you need to install Psychtoolbox-3 (http://psychtoolbox.org/).
 
 In order to open the programs just drag and drop the file of interest in the Matlab terminal.
-You can use simply the main menu GeNEsIS.mlapp to access all the tools in a simple way.
-(If instead you want to visualize and modify the code, type ‘appdesigner’ in Matlab terminal and open the file in the program that will appear).
+You can simply use the main menu GeNEsIS.mlapp to access all the tools and tutorials in a fast way.
+(If instead you want to visualize and modify the code, type ‘appdesigner’ in Matlab terminal and open the file of interest in the Matlab program that will appear).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
