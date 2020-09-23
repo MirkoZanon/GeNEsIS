@@ -1,4 +1,4 @@
-# GeNEsIS - Generator of numerical elements images software
+# GeNEsIS - GEnerator of Numerical ElementS Images Software
 This is a custom program written in Matlab (Matlab R2019a, The MathWorks Inc., Natick, Massachusetts, USA), using Appdesigner. 
 A supplemtary tool of this program uses also Psychtoolbox-3 (the Psychophysics Toolbox extensions - Brainard, 1997; Pelli, 1997; Kleiner et al, 2007).
 
