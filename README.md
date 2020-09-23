@@ -25,6 +25,8 @@ The whole program is structured in three different steps:
 3.	GeNEsIS_display.mlapp
     Perform classical experiments of habituation or discrimination presenting your images on screen in an automatized way
 
+GeNEsIS.mlapp provides an user-friendly menu to directly access all the tools.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RUN THE PROGRAM
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
