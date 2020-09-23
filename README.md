@@ -4,7 +4,7 @@ A supplemtary tool of this program uses also Psychtoolbox-3 (the Psychophysics T
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-With this program it is possible to create stimuli with different numerosity and balanced characteristics, in particular it is possible to control:
+With this program it is possible to create and present on screen stimuli with different numerosity and balanced characteristics, in particular it is possible to control:
 -	TA = total area, overall elements area
 -	TP = total perimeter, overall elements contour length
 -	ID = mean distance between all elements centers (not defined for <2 element)
