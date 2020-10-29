@@ -9,8 +9,8 @@ With this program it is possible to create, and present on screen, stimuli with 
 -	TA = total area, i.e. the overall elements' surface
 -	TP = total perimeter, i.e. the overall elements' contour length
 -	ID = inter distance, i.e. the mean distance between all possible pairs of elements' centers (not defined for 1 element)
--	CH = convex hull, i.e. the area of the smallest convex polygon containing all the elements (precisely defined by the elements' outermost points)
--	D = density, i.e., in our two-dimentional case, the number (n) of elements divided by the occupied area (D=n/CH)
+-	CH = convex hull, i.e. the area of the smallest convex polygon containing all the elements
+-	D = density, i.e. the number (n) of elements divided by the occupied area (D=n/CH)
 
 The whole program is structured in three different steps:
 
