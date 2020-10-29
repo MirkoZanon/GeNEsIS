@@ -24,7 +24,7 @@ The whole program is structured in three different steps:
     Customize your stimuli (colors, effective dimension) and save the final images
 
 3.	GeNEsIS_display.mlapp
-    Perform classical experiments of habituation or discrimination presenting your images on screen in an automatized way
+    Perform habituation or discrimination experiments presenting your images on screen in an automatized way
 
 GeNEsIS.mlapp provides an user-friendly interface to directly access all the tools and tutorials.
 
