@@ -20,7 +20,7 @@ The whole program is structured in three different steps:
     Create controlled shapes for your stimuli (TA, TP)
 
 2.	GeNEsIS_save.mlapp
-    Visualize your stimuli and set graphical properties (colors, effective dimension)
+    Customize your stimuli (colors, effective dimension) and save the final images
 
 3.	GeNEsIS_display.mlapp
     Perform classical experiments of habituation or discrimination presenting your images on screen in an automatized way
