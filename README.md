@@ -5,11 +5,12 @@ A supplemtary tool of this program uses also Psychtoolbox-3 (the Psychophysics T
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 With this program it is possible to create and present on screen stimuli with different numerosity and controlled characteristics, in particular it is possible to control:
--	TA = total area, overall elements area
--	TP = total perimeter, overall elements contour length
--	ID = mean distance between all elements centers (not defined for <2 element)
--	CH = convex hull defined by the elements centers disposition (not defined for <3 elements)
--	D = density defined as number of elements divided by the occupied area (CH)
+-   R = radius, elements' characteristic dimention
+-	TA = total area, overall elements' area
+-	TP = total perimeter, overall elements' contour length
+-	ID = mean distance between all elements' centers (not defined for 1 element)
+-	CH = convex hull (precisely defined by the elements' outermost points)
+-	D = density of elements (in the 2D surface), defined as the number (n) of elements divided by the occupied area (D=n/CH)
 
 The whole program is structured in three different steps:
 
