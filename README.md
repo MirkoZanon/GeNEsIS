@@ -49,3 +49,12 @@ Good work!
 
 If you find some bugs or you have suggestions to improve the program, please contact me: mirko.zanon@unitn.it
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CITATION
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Please note that GeNEsIS is based on a publication. If you use it successfully for your research please be so kind to cite our work:
+
+Zanon, M., Potrich, D., Bortot, M. & Vallortigara, G. Towards a standardization of non-symbolic numerical experiments: GeNEsIS, a flexible and user-friendly tool to generate controlled stimuli. Behav Res (2021). https://doi.org/10.3758/s13428-021-01580-y
+
+
