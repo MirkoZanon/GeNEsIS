@@ -1,4 +1,6 @@
 # GeNEsIS - GEnerator of Numerical ElementS Images Software
+(Repository DOI: https://zenodo.org/badge/latestdoi/296050999)
+
 This is a custom program written in Matlab (Matlab R2019a, The MathWorks Inc., Natick, Massachusetts, USA), using Appdesigner. 
 A supplemtary tool of this program uses also Psychtoolbox-3 (the Psychophysics Toolbox extensions - Brainard, 1997; Pelli, 1997; Kleiner et al, 2007).
 
@@ -56,7 +58,5 @@ CITATION
 Please note that GeNEsIS is based on a publication. If you use it successfully for your research please be so kind to cite our work:
 
 Zanon, M., Potrich, D., Bortot, M. & Vallortigara, G. Towards a standardization of non-symbolic numerical experiments: GeNEsIS, a flexible and user-friendly tool to generate controlled stimuli. Behav Res (2021). https://doi.org/10.3758/s13428-021-01580-y
-
-Repository DOI: https://zenodo.org/badge/latestdoi/296050999
 
 
